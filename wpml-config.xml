@@ -1,0 +1,16 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_spotlight">
+	<key name="header_dropdown_title" />
+	<key name="header_subscribe_title" />
+	<key name="header_subscribe_text" />
+	<key name="search_placeholder" />
+	<key name="post_subscribe_title" />
+	<key name="post_subscribe_text" />
+	<key name="label_readmore" />
+	<key name="footer_title" />
+	<key name="footer_text" />
+	<key name="footer_subscribe_text" />
+</key>
+</admin-texts>
+</wpml-config>
