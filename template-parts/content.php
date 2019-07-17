@@ -40,8 +40,8 @@ $class = sprintf( 'layout-%s', $layout );
 		}
 		?>
 
-    <?php if ( has_post_thumbnail() ) { ?>
-    <?php //if ( true ) { ?>
+    <?php //if ( has_post_thumbnail() ) { ?>
+    <?php if ( true ) { ?>
       <div class="post-inner entry-thumbnail">
         <div class="cs-overlay cs-overlay-simple cs-overlay-ratio cs-ratio-landscape cs-bg-dark">
           <div class="cs-overlay-background">
